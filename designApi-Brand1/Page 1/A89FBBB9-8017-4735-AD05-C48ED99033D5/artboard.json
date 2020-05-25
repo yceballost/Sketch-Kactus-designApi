@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1595,
+    "height": 971,
     "width": 950,
     "x": 22,
     "y": -184
@@ -88,46 +88,6 @@
     {
       "class": "group",
       "id": "4071583F-FF0A-4901-92F4-5E3CA3EF1499"
-    },
-    {
-      "class": "group",
-      "id": "73E832C5-974E-428D-9881-E52D11223D9E"
-    },
-    {
-      "class": "group",
-      "id": "A3B12E51-26D9-4844-812D-83FA81594285"
-    },
-    {
-      "class": "group",
-      "id": "1517CAD5-B6C6-43A2-9213-A6CBFCA72479"
-    },
-    {
-      "class": "group",
-      "id": "1EC9506B-23B7-45E5-8F32-964B066DAA18"
-    },
-    {
-      "class": "group",
-      "id": "D5305F4D-F1CE-4633-B97B-654A15553024"
-    },
-    {
-      "class": "group",
-      "id": "FD2D1779-6FEE-4BF0-ABB1-B6893DBDAF7D"
-    },
-    {
-      "class": "group",
-      "id": "9FCFDF88-D1A5-48C6-9C05-44951FF97305"
-    },
-    {
-      "class": "group",
-      "id": "537DF494-ECFA-46FE-B671-B0A34B7B8F37"
-    },
-    {
-      "class": "group",
-      "id": "A80896B2-0ECC-4591-B1B6-47C5AC16A8B7"
-    },
-    {
-      "class": "group",
-      "id": "AE252E85-1BC9-4A01-8BFF-CB57C0A878C6"
     }
   ],
   "name": "Palette",
