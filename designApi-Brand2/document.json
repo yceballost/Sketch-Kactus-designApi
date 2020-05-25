@@ -1,0 +1,436 @@
+{
+  "_class": "document",
+  "agreedToFontEmbedding": false,
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5450980392156862,
+          "green": 0.4901960784313725,
+          "red": 0.3764705882352941
+        },
+        "do_objectID": "7389852F-F85B-46EA-AB5D-E7FEB1E2588B",
+        "name": "Slate gray"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6196078431372549,
+          "green": 0.6196078431372549,
+          "red": 0.6196078431372549
+        },
+        "do_objectID": "F4B70D2D-C082-4D10-8BA4-D79F02306790",
+        "name": "Manatee"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2823529411764706,
+          "green": 0.3333333333333333,
+          "red": 0.4745098039215686
+        },
+        "do_objectID": "4A133F57-B958-47DB-A8B1-4233121F2331",
+        "name": "Raw umber"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "0F2B7F4B-1C75-4E0C-AF4A-BD15AD5D5EFF",
+        "name": "Black"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.3411764705882353,
+          "red": 1
+        },
+        "do_objectID": "B45C6F7F-B12C-45DD-9CA9-45A01CBE67AD",
+        "name": "Portland Orange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.596078431372549,
+          "red": 1
+        },
+        "do_objectID": "EC612F1F-40AC-495C-A130-28A029BE841B",
+        "name": "Orange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.02745098039215688,
+          "green": 0.7568627450980392,
+          "red": 1
+        },
+        "do_objectID": "31E96623-9253-472F-AA6C-095BBBABCAC4",
+        "name": "Mikado yellow"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2313725490196079,
+          "green": 0.9215686274509803,
+          "red": 1
+        },
+        "do_objectID": "E8F32483-CAF3-4715-805B-7DD96081D399",
+        "name": "Banana yellow"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647058,
+          "green": 0.8627450980392157,
+          "red": 0.8039215686274511
+        },
+        "do_objectID": "C2275C1E-BE43-40BE-9499-69A28A1EF048",
+        "name": "Pear"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2901960784313725,
+          "green": 0.7647058823529411,
+          "red": 0.5450980392156861
+        },
+        "do_objectID": "E0B3F4E2-A30B-4633-A69C-2C3CD0716A51",
+        "name": "Dollar bill"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1411764705882353,
+          "green": 0.6078431372549019,
+          "red": 0.1450980392156863
+        },
+        "do_objectID": "DF971650-5D13-4375-9F90-F18A02E5C737",
+        "name": "Forest green"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333334,
+          "green": 0.5882352941176471,
+          "red": 0
+        },
+        "do_objectID": "19FE453D-1B1B-4DA3-BFC4-CF67B6E34244",
+        "name": "Dark cyan"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8313725490196078,
+          "green": 0.7372549019607842,
+          "red": 0
+        },
+        "do_objectID": "B6A7CF96-73CE-47CE-BCBA-C353284424C9",
+        "name": "Robin egg blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.6627450980392159,
+          "red": 0.0117647058823529
+        },
+        "do_objectID": "5A3912F0-34B3-4988-918A-D18C2A8DBD64",
+        "name": "Cyan"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941176471,
+          "green": 0.4666666666666666,
+          "red": 0.3372549019607843
+        },
+        "do_objectID": "5895B8E1-896E-4BF0-9EB0-6E0E74821F64",
+        "name": "Ultramarine blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7098039215686275,
+          "green": 0.3176470588235292,
+          "red": 0.2470588235294118
+        },
+        "do_objectID": "9B0D1F5A-A93D-4F12-84DF-9BF4A9710927",
+        "name": "Cerulean blue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1372549019607847,
+          "green": 0.1098039215686274,
+          "red": 0.8980392156862745
+        },
+        "do_objectID": "9E72D2F3-E06F-49BF-9800-D59286D49B1F",
+        "name": "Lust"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7176470588235294,
+          "green": 0.2274509803921568,
+          "red": 0.4039215686274511
+        },
+        "do_objectID": "3BF03A22-5D2E-437A-B0FB-B36F173C6E67",
+        "name": "Purple Heart"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313725,
+          "green": 0.1529411764705882,
+          "red": 0.6117647058823528
+        },
+        "do_objectID": "77407C9D-80C1-41DB-97A5-67979A75769E",
+        "name": "Dark orchid"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3882352941176472,
+          "green": 0.1176470588235295,
+          "red": 0.9137254901960784
+        },
+        "do_objectID": "DE98FEA7-8D98-4E31-9173-B65F840C0AE6",
+        "name": "Razzmatazz"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5450980392156862,
+        "green": 0.4901960784313725,
+        "red": 0.3764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6196078431372549,
+        "green": 0.6196078431372549,
+        "red": 0.6196078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2823529411764706,
+        "green": 0.3333333333333333,
+        "red": 0.4745098039215686
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.3411764705882353,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.596078431372549,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.02745098039215688,
+        "green": 0.7568627450980392,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2313725490196079,
+        "green": 0.9215686274509803,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647058,
+        "green": 0.8627450980392157,
+        "red": 0.8039215686274511
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2901960784313725,
+        "green": 0.7647058823529411,
+        "red": 0.5450980392156861
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1411764705882353,
+        "green": 0.6078431372549019,
+        "red": 0.1450980392156863
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5333333333333334,
+        "green": 0.5882352941176471,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8313725490196078,
+        "green": 0.7372549019607842,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9568627450980391,
+        "green": 0.6627450980392159,
+        "red": 0.0117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9882352941176471,
+        "green": 0.4666666666666666,
+        "red": 0.3372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7098039215686275,
+        "green": 0.3176470588235292,
+        "red": 0.2470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1372549019607847,
+        "green": 0.1098039215686274,
+        "red": 0.8980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7176470588235294,
+        "green": 0.2274509803921568,
+        "red": 0.4039215686274511
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6901960784313725,
+        "green": 0.1529411764705882,
+        "red": 0.6117647058823528
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3882352941176472,
+        "green": 0.1176470588235295,
+        "red": 0.9137254901960784
+      }
+    ],
+    "do_objectID": "F78B8E8F-9B87-455B-AD7B-F60CE9F79021",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "autoEmbedFonts": false,
+  "colorSpace": 0,
+  "do_objectID": "E0760551-47A3-4DE9-AE67-21AF0B561390",
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "66.1",
+    "build": 97080,
+    "version": 130
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
